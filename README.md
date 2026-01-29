@@ -59,15 +59,3 @@ ppsg <project_name> [structure] [options]
 --toml        Generate a basic pyproject.toml
 -h, --help    Show help
 ```
-
-## License
-
-```
-MIT License
-
-Copyright (c) 2026 Thales Henrique
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
-```
